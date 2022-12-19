@@ -1,0 +1,11 @@
+name: Jukebag
+main: Main.main
+api-version: 1.13
+version: 0.6
+description: This plugin adds a music player to the game!
+author: aredblock
+website: aredblock.github.io
+commands:
+   jukebag:
+      description: Jukebag
+      usage: /jukebag
