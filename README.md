@@ -13,6 +13,6 @@
 ### ------------------------------------------------------------------------------------------------------
 
 
-#### Download here [download](https://modrinth.com/plugin/jukebag)!
+#### Download here [download](https://www.spigotmc.org/resources/jukebag-a-music-player-in-minecraft.106436/)!
 
 
